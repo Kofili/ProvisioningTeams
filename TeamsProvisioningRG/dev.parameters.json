@@ -3,25 +3,25 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "appName": {
-        "value": "TeamsProvisioningDev"
+        "value": "ProvisioningTeams"
       },
       "repoUrl": {
-        "value": "https://github.com/BobGerman/TeamsProvisioning.git"
+        "value": "https://github.com/Kofili/ProvisioningTeams.git"
       },
       "branch": {
-        "value": "dev"
+        "value": "master"
       },
       "TENANT": {
-        "value": "a25d4ef1-c73a-4dc1-bdb1-9a342260f216"
+        "value": "a39abeeb-6ea7-44e5-9a98-7407a9d68d39"
       },
       "TENANT_NAME": {
         "value": "bgtest18"
       },
       "CLIENT_ID": {
-        "value": "3b34741d-68fc-4465-b25e-d6fba3de701d"
+        "value": "a314e000-7264-4eeb-8274-c90472c5fc2e"
       },
       "CLIENT_SECRET": {
-        "value": "@Microsoft.KeyVault(SecretUri=https://teamsprovisioning.vault.azure.net/secrets/client-secret/cd56ab45a33e47bfb0b091c75b99099a)"
+        "value": "@Microsoft.KeyVault(SecretUri=https://keyprovisioning.vault.azure.net/secrets/SecretProvisioning/f505c2aae17b481f9a9db8dd86544f2f)"
       },
       "TEMPLATE_SITE_URL": {
         "value": "/sites/TeamsProvisioning"
